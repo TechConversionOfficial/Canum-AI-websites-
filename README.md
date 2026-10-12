@@ -1,100 +1,183 @@
+# Canum AI Website Redesign | AI Engineering & Cybersecurity by Tech Conversion
 
-# Canum AI website: AI engineering and cybersecurity brought into one clear digital experience
+**An integrated digital experience for building, scaling and securing modern technology.** [Canum AI](https://canum.ai/) combines AI engineering, digital product development, scalable infrastructure and cybersecurity. [Tech Conversion](https://techconversion.tech/) showcases its redesigned website as a project that brings these services together under a clearer enterprise-focused message.
 
-**Canum AI is an AI engineering and cybersecurity business whose website is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The redesign presents AI development, digital product engineering, scalable infrastructure and cybersecurity as one connected offering, helping enterprise visitors understand what Canum does and where to start a conversation.**
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/canum-ai-website-mockup.webp" title="Open the full-resolution Canum AI website mockup">
+    <img src="https://techconversion.tech/api/media/portfolio/canum-ai-website-mockup.webp" alt="Official Tech Conversion portfolio mockup presenting the redesigned Canum AI website across devices" width="100%" />
+  </a>
+</p>
 
-![Canum AI before-and-after website presentation from the Tech Conversion portfolio](images/canum-ai-before-after-portfolio.webp)
+<p align="center">
+  <a href="https://canum.ai/"><strong>Live Website</strong></a> &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; After Gallery</strong></a> &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/"><strong>Tech Conversion</strong></a>
+</p>
+
+---
+
+## Project at a Glance
 
 | | |
-|---|---|
+| :--- | :--- |
 | **Client** | Canum AI |
 | **Website** | [canum.ai](https://canum.ai/) |
 | **Industry** | AI solutions, cybersecurity, enterprise IT and digital engineering |
 | **Markets** | India, United States and international business audiences, as presented by Canum |
-| **Built by** | [Tech Conversion](https://techconversion.tech/), Chennai, India (portfolio credit) |
-| **Project type** | B2B technology website and redesign presentation |
-| **Related service** | [Custom website development](https://techconversion.tech/services/custom-websites), [Enterprise websites](https://techconversion.tech/services/enterprise-websites) |
+| **Designed / developed by** | [Tech Conversion](https://techconversion.tech/), Chennai, India (portfolio credit) |
+| **Project category** | B2B technology website redesign and portfolio showcase |
+| **Core positioning** | Build · Scale · Secure |
+| **Related services** | [Custom website development](https://techconversion.tech/services/custom-websites) · [Enterprise websites](https://techconversion.tech/services/enterprise-websites) |
 | **Portfolio** | [techconversion.tech/portfolio](https://techconversion.tech/portfolio) |
-| **Design comparison** | [Tech Conversion before-and-after gallery](https://techconversion.tech/before-and-after/) |
+| **Website redesign gallery** | [techconversion.tech/before-after](https://techconversion.tech/before-after) |
 
-## About the business
+## About Canum AI
 
-- **What it does:** Canum combines AI engineering, custom applications, enterprise technology and cybersecurity services. Its public website presents these capabilities through three connected themes: **Build, Scale and Secure**.
-- **Who it serves:** organisations evaluating AI solutions, software modernisation, cloud and infrastructure work, application security and cyber-risk management. Canum's website addresses security-conscious enterprises, SaaS businesses and regulated industries.
-- **What the website needs to explain:** how AI development relates to secure delivery, reliable infrastructure and ongoing cyber protection, without making a prospect decode technical terminology before finding the right service.
-- **Where the business operates:** Canum's About page describes United States and India operations alongside international delivery. The README does not infer a specific project-delivery location from this.
+Canum AI works across AI engineering, enterprise application development, infrastructure and cybersecurity. Its website organises the offering around three connected themes: **Build, Scale and Secure**.
 
-## The problem
+- **What it does:** AI solutions and integration, custom digital products, enterprise platforms, infrastructure modernisation and application/cybersecurity services.
+- **Who it serves:** businesses evaluating AI adoption, software engineering, cloud and infrastructure, application security or cyber-risk management. The website addresses security-conscious enterprises, SaaS teams and regulated industries.
+- **What visitors need to understand:** how new systems are developed, how they are scaled and how they can be secured through one technology partner.
+- **Geographic context:** Canum publicly describes United States and India operations with an international delivery model; this does not independently establish the website project's delivery location.
 
-AI development, enterprise software and cybersecurity are closely related, but buyers often approach them as separate purchasing decisions. A technology firm offering all three needs to show the relationship clearly: what it can build, how that system can scale and how it can be protected.
+The public homepage leads with the proposition **“We Build and Secure Digital Ecosystems”** and connects product development with infrastructure and security.
 
-Tech Conversion's public portfolio describes Canum AI as a website that brings AI development, cybersecurity and scalable digital solutions into one understandable ecosystem. Its redesign gallery presents an earlier, narrower cybersecurity-focused home-page concept beside a more integrated Build–Secure–Scale message. This describes the **published portfolio comparison**, not a separately verified audit of the old website.
+## The Website Challenge
 
-## How the website presents the solution
+AI engineering, enterprise software and cybersecurity can appear to be unrelated services when they are presented as separate technical catalogues. For an enterprise buyer, the more helpful story is how the pieces work together: **what can be built, how it can scale and how it can be protected**.
 
-1. **Lead with the combined proposition.** The live homepage uses the message “We Build and Secure Digital Ecosystems” to communicate the relationship between engineering and protection from the start.
-2. **Structure the offer around business decisions.** Build, Scale and Secure group broad capabilities into pathways visitors can recognise rather than a single list of technical services.
-3. **Explain AI in terms of its application.** The AI solutions content covers integration, custom development, data pipelines and deployment, with a focus on operational uses rather than AI terminology alone.
-4. **Connect security services with real risks.** Application-security content explains API, web and mobile risks and introduces testing, code review, DevSecOps and runtime protection.
-5. **Support enterprise-level evaluation.** Service pages explain use cases, approaches, benefits and calls to speak to the team, allowing prospects to investigate before enquiring.
-6. **Give visitors multiple ways to enquire.** Consultation, assessment and contact calls to action appear across the homepage and relevant service pages.
-7. **Keep the experience consistent across topics.** Recurring service navigation and visual hierarchy help the brand feel like one technology partner, not several unrelated businesses.
+The Tech Conversion portfolio presents Canum AI as a project simplifying this combined offering. Its before-and-after showcase compares an earlier cybersecurity-oriented page with a broader integrated website message. This is an interpretation of the published website presentation, not an independent audit of the previous implementation.
 
-These points are based on the publicly visible website and Tech Conversion's portfolio positioning. They should not be interpreted as an independently reviewed development log or proof of specific technical implementation methods.
+## Website Transformation | Before & After
 
-## Standards relevant to the build
+### 1. Official Before-and-After Mockup
 
-The following are appropriate **assessment standards**, not claims that Canum's website has passed an independent audit or obtained any certification:
+This is the comparison artwork supplied through Tech Conversion's website-redesign media library. It provides an immediate overview of the earlier and redesigned visual presentation.
 
-- [Core Web Vitals](https://web.dev/articles/vitals): review loading, interactivity and layout stability on real devices.
-- [WCAG 2.2, Level AA](https://www.w3.org/TR/WCAG22/): evaluate readable contrast, keyboard access, focus states, meaningful links, forms and image alternatives.
-- [Google Search Essentials](https://developers.google.com/search/docs/essentials): check indexability, crawl access, useful content and search presentation.
-- [Schema.org](https://schema.org/): consider accurate organisation, breadcrumb and service markup, where implemented.
-- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/): a relevant reference for website security testing, not evidence that testing or penetration assessment has been completed.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/canum-ai-before-after.webp" title="Open the full-resolution website transformation mockup">
+    <img src="https://techconversion.tech/api/media/before-after/canum-ai-before-after.webp" alt="Canum AI before-and-after website redesign mockup, showing the original design alongside the redesigned version" width="100%" />
+  </a>
+</p>
 
-**Important:** Canum's own claims about threat detection, operational performance, compliance and customer results describe its advertised services. They are **not measurements of Tech Conversion's website project**, and this README does not independently verify them.
+### 2. Full-Length Homepage Screenshots — Side by Side
 
-## Before and after
+The images below are the **full-page BEFORE and AFTER screenshots**, not crops of the short mockup. Both are displayed at equal column widths while retaining their original proportions. Click either image to inspect the full-resolution screenshot.
 
-Tech Conversion has published Canum AI in its website-transformation gallery. The following visual is taken from existing **Tech Conversion portfolio artwork**; it shows how the project is presented publicly.
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50%">BEFORE — Original Website</th>
+      <th align="center" width="50%">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <a href="https://techconversion.tech/api/media/before-after/canum-ai-old-website-home-page.webp" title="View original Canum AI website, full length">
+          <img src="https://techconversion.tech/api/media/before-after/canum-ai-old-website-home-page.webp" width="100%" alt="Full-length screenshot of the original Canum AI website homepage, before redesign" />
+        </a>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <a href="https://techconversion.tech/api/media/before-after/canum-ai-new-website-home-page.webp" title="View redesigned Canum AI website, full length">
+          <img src="https://techconversion.tech/api/media/before-after/canum-ai-new-website-home-page.webp" width="100%" alt="Full-length screenshot of the redesigned Canum AI website homepage, after redesign" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-![Canum AI website design comparison displayed in the Tech Conversion portfolio](images/canum-ai-before-after-portfolio.webp)
+**Open each full-size screenshot:** [BEFORE — Original homepage](https://techconversion.tech/api/media/before-after/canum-ai-old-website-home-page.webp) · [AFTER — Redesigned homepage](https://techconversion.tech/api/media/before-after/canum-ai-new-website-home-page.webp)
 
-| Earlier design shown in the portfolio | Later design shown in the portfolio |
-|---|---|
-| ![Canum AI earlier design panel from Tech Conversion portfolio artwork](images/canum-ai-before-design.webp) | ![Canum AI later design panel from Tech Conversion portfolio artwork](images/canum-ai-after-design.webp) |
+> The before/after images document the site's visual presentation at the time of capture. They do not, by themselves, establish improvements in site speed, traffic, leads, conversion or security.
 
-### Original portfolio context
+### 3. Responsive Portfolio Mockup
 
-![Tech Conversion website-transformation portfolio gallery including Canum AI](images/canum-ai-portfolio-gallery.webp)
+The official portfolio mockup presents the redesigned Canum AI website as a project showcase.
 
-**Image provenance:** These four WebP files are local reproductions or crops of an existing *Website Transformations Portfolio* image from the Tech Conversion project files. They are **presentation visuals**, not separately authenticated full-page captures of the actual historical and current websites. The three Canum-specific files derive from the same comparison artwork, not three independent source photographs. The full live-site image library and standalone original high-resolution screenshots are not included.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/canum-ai-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/canum-ai-website-mockup.webp" alt="Canum AI website portfolio mockup published by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-Explore the agency's [website before-and-after gallery](https://techconversion.tech/before-and-after/) for its published project presentation.
+## What Changed in the Website Experience
 
-## Key visitor journeys
+| Area | Design and communication focus |
+| :--- | :--- |
+| **Core message** | Presents AI engineering, scalable infrastructure and cybersecurity as parts of one ecosystem. |
+| **Service architecture** | Organises the offer around recognisable Build, Scale and Secure categories. |
+| **Enterprise audience** | Emphasises outcomes and service applications rather than requiring visitors to decode technical jargon. |
+| **AI solutions** | Explains integration, custom development, data pipelines and deployment around real business workflows. |
+| **Cybersecurity** | Directs visitors toward application, API, web and mobile security information. |
+| **Consultation pathways** | Provides calls to action for discussions, assessments and enquiries. |
+| **Visual hierarchy** | Uses a more unified presentation across the brand's major technology disciplines. |
+
+These are design and communication observations from the supplied portfolio presentation and public pages, not verified metrics or a claim about the exact code changes made.
+
+## How the Website Presents the Solution
+
+1. **Unifies the brand proposition.** The opening message connects software and AI development with security and scalable operations.
+2. **Creates recognisable service pathways.** Build, Scale and Secure help prospective customers choose an area relevant to their challenge.
+3. **Describes AI through applications.** AI pages explain integrations, automation, data pipelines and deployment rather than relying solely on industry terminology.
+4. **Connects security work with practical risk.** Application security content covers APIs, web and mobile applications, vulnerability testing, code review, DevSecOps and runtime protection.
+5. **Supports enterprise research.** Service pages give visitors context about benefits, use cases and delivery approaches before asking for a meeting.
+6. **Provides clear routes to contact the business.** Consultation and assessment calls to action appear within relevant journeys.
+7. **Keeps the experience coherent.** Shared terminology and navigation present Canum as one technology partner rather than unrelated service businesses.
+
+**Implementation boundary:** A specific development framework, infrastructure configuration, technical audit report or formal testing record has not been supplied for this case-study README. No technology stack or performance result is invented here.
+
+## Key Visitor Journeys
 
 | Visitor's task | Public website route |
-|---|---|
+| :--- | :--- |
 | Understand Canum's combined offering | [Canum AI homepage](https://canum.ai/) |
-| Review the business and its positioning | [About Canum AI](https://canum.ai/about-us/) |
-| Explore AI integration and solutions | [AI Solutions](https://canum.ai/build/ai-solutions/) |
+| Review the organisation and its positioning | [About Canum AI](https://canum.ai/about-us/) |
+| Explore AI development and integration | [AI Solutions](https://canum.ai/build/ai-solutions/) |
 | Understand application-security services | [Application Security](https://canum.ai/secure/application-security/) |
-| Explore available employment opportunities | [Careers](https://canum.ai/careers/) |
-| Request a consultation or assessment | Calls to action and contact form on the [homepage](https://canum.ai/) |
+| Browse additional cybersecurity offerings | [Security Solutions](https://canum.ai/secure/security-solutions/) |
+| View career information | [Careers](https://canum.ai/careers/) |
+| Request a discussion or assessment | Contact and consultation actions on [canum.ai](https://canum.ai/) |
 
-## Results
+## Quality and Security References
 
-The publicly verifiable outcome is a delivered **Canum AI website featured in Tech Conversion's portfolio**, with a published design comparison and live pages addressing AI, engineering and cybersecurity.
+The following are useful **evaluation frameworks**, not proof that the Canum AI website has passed a formal audit or received certification:
 
-No project-specific, independently verified numbers for organic traffic, leads, conversion rate, Core Web Vitals, revenue or ranking improvements were supplied for this repository. Figures published by Canum about its security operations or client cases must **not** be attributed to the website redesign. Any website-performance results can be added later with dates, data sources, measurement methodology and permission to publish.
+- [Core Web Vitals](https://web.dev/articles/vitals): real-user loading experience, responsiveness and layout stability.
+- [WCAG 2.2, Level AA](https://www.w3.org/TR/WCAG22/): contrast, accessible navigation, focus states, meaningful links, forms and alternative image text.
+- [Google Search Essentials](https://developers.google.com/search/docs/essentials): crawlability, indexability and useful website content.
+- [Schema.org](https://schema.org/): appropriate and accurate organisation, breadcrumb and service markup where implemented.
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/): a reference for assessing web application security, **not a claim that penetration testing was performed on this project**.
+
+Canum's published service claims and business metrics, including claims about threat detection, uptime, cybersecurity performance or compliance, must not be interpreted as measurements of Tech Conversion's website redesign.
+
+## Results and Evidence
+
+The publicly visible project record includes the live Canum AI website, Tech Conversion's portfolio listing and the four project visuals linked above: a responsive portfolio mockup, the before/after transformation mockup and full-length screenshots of the original and redesigned homepage.
+
+**No independently validated project-specific figures** for organic traffic, rankings, leads, conversion rate, speed, revenue or return on investment have been supplied for this README. If those become available, document the source, dates, methodology and client permission before publishing them.
 
 ## About Tech Conversion
 
-[Tech Conversion](https://techconversion.tech/) (Tech Conversion Persuasive Private Limited) is a technical and digital business-growth partner based in Chennai, India. Its public website describes work for clients in India, the UAE and the USA, and reports **50+ websites delivered** since its 2024 founding.
+[Tech Conversion](https://techconversion.tech/) (**Tech Conversion Persuasive Private Limited**) is a Chennai-based technical and digital business-growth company serving clients in India and international markets. Its public materials describe a 2024 founding and more than 50 website projects delivered.
 
-- **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
+- **Official website:** [techconversion.tech](https://techconversion.tech/)
+- **Project portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
+- **Website transformations:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
-- **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
+- **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public record of the Canum AI website project**. It does not contain Canum's private source code, infrastructure configurations, customer information, security tooling, keys or credentials. Canum branding belongs to its respective rights holders; the included project-presentation artwork comes from Tech Conversion's existing portfolio materials.
+---
+
+## Repository Scope, Image Sources and Credits
+
+This repository is a **public portfolio record of the Canum AI website project**. It does not distribute Canum's private source code, application infrastructure, security systems, credentials or customer data.
+
+**Image sources:** All four displayed project visuals are linked directly from Tech Conversion's supplied public media URLs. They represent portfolio artwork and captured website pages; they are not independently certified historical audits. Canum AI owns its respective business name, brand and website materials; project-presentation imagery is credited to Tech Conversion and the relevant rights holders.
+
+**Image availability:** GitHub will render the embedded images while the public URLs serve image content. For permanent, self-contained rendering, store authorised copies in this repository and switch the image links to relative paths. The screenshots are intentionally left uncropped, and either one can be opened separately in full resolution.
+
+**Project references:** [Canum AI](https://canum.ai/) · [Tech Conversion portfolio](https://techconversion.tech/portfolio) · [Tech Conversion website transformations](https://techconversion.tech/before-after)
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
